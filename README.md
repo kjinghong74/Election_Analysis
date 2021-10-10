@@ -1,4 +1,10 @@
-##Election Audit Results
+# Election_Analysis
+
+## Overview of Election Audit
+
+      A complete election voting results of a local congressional election is analyzed in order to get a summary of the election results, based on each county, each candidate, the country which casts the most votes, and the winning candidate information.
+
+## Election Audit Results
 
 The analysis of the election results shows that:
 
@@ -23,7 +29,7 @@ Candidate 3: Raymon Anthony Doane: received 3.1% of the votes and 11,606 of the 
 4. The winner of the election was:
       Candidate 2: Diana DeGette who received 73.8% of the votes and 272,892 of the votes
 
-##Election Audit Summary
+## Election Audit Summary
 
 o A complete election voting results of a local congressional election is analyzed using Python programming scripts. A summary of the election results, based on each county and each candidate, is generated. This Python programming scripts can be used for other similar election results analysis. For example (1): For same election holding in the same local area in future years, the analysis can be done using same scripts but only updating the candidate list.
 
