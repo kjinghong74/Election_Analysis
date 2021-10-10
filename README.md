@@ -1,4 +1,4 @@
-***Election_Analysis***
+# **Election_Analysis**
 
 ## **Overview of Election Audit**
 A complete election voting results of a local congressional election is analyzed in order to get a summary of the election results, based on each county, each candidate, the country which casts the most votes, and the winning candidate information.
