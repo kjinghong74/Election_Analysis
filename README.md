@@ -30,6 +30,4 @@ The analysis of the election results shows that:
 
 ## Election Audit Summary
 
-      A complete election voting results of a local congressional election is analyzed using Python programming scripts. A summary of the election results, based on each county and each candidate, is generated. This Python programming scripts can be used for other similar election results analysis. For example (1): For same election holding in the same local area in future years, the analysis can be done using same scripts but only updating the candidate list.
-
-      For example (2): For other types of election holding in different area and serve for other purposes, the scripts can be modified by updating the candidate list and county list. Scripts can also be re-purposed for other parameters in the election voting results.
+      A complete election voting results of a local congressional election is analyzed using Python programming scripts. A summary of the election results, based on each county and each candidate, is generated. This Python programming scripts can be used for other similar election results analysis. For example (1): For same election holding in the same local area in future years, the analysis can be done using same scripts but only updating the candidate list. For example (2): For other types of election holding in different area and serve for other purposes, the scripts can be modified by updating the candidate list and county list. Scripts can also be re-purposed for other parameters in the election voting results.
